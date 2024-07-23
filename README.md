@@ -1,3 +1,5 @@
+url- https://www.youtube.com/watch?v=uaeKhfhYE0U
+
 git config --global user.name “[firstname lastname]”
 git config --global user.email “[valid-email]”
 To check your name and email
